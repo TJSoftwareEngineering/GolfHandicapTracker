@@ -1,2 +1,2 @@
 # GolfHandicapTracker
-Tracks Golf Scores and Calculates Handicap
+Python desktop app to track golf scores and calculates handicap
